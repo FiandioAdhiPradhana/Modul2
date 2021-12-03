@@ -18,11 +18,11 @@
    ```
 
    <p align="center">
-         	gambar 1
+         		<img src= https://user-images.githubusercontent.com/93086665/144601260-54894407-7af5-400f-a023-2d72c51b6466.png>
    </p>
    
    <p align="center">
-         	gambar 2
+         	<img src= https://user-images.githubusercontent.com/93086665/144601656-6aa8d79d-f0ce-4759-a83d-c9ff11a84770.png>
    </p>
    
    
@@ -32,13 +32,14 @@
 - Setelah membuat baru, gunakan command lxc-start untuk memulai ubuntu_landing dan gunakan command lxc-attach untuk membuka ubuntu_landing. Lalu gunakan install nano untuk mengedit config.
 
   <p align="center">
-        	gambar 3
+        	<img src= https://user-images.githubusercontent.com/93086665/144602009-a33c3aa2-fcfd-4385-9d8e-328cb1a3366f.png>
+   </p>
   </p>			
 
 - Atur IP ubuntu_landing
-
+          
   <p align="center">
-        	gambar 4
+        	<img src= https://user-images.githubusercontent.com/93086665/144602099-d4fd9a74-c21d-43c0-8ca9-e1b3949ddcd8.png>
   </p>			
 
   
@@ -52,7 +53,7 @@
   ```
 
   <p align="center">
-        	gambar 5
+        	<img src= https://user-images.githubusercontent.com/93086665/144602555-dce4ed3e-15e3-4b79-97d9-843f4d842a3d.png>
   </p>			
 
   
@@ -60,7 +61,7 @@
   - atur autostart lxc, seperti dibawah ini :
 
     <p align="center">
-          	gambar 6
+          	<img src= https://user-images.githubusercontent.com/93086665/144602713-97e39a75-1197-4716-a42e-84d8e7cd6fbe.png>
     </p>			
 
   
@@ -70,7 +71,7 @@
   - install ssh 
 
     <p align="center">
-          	gambar 7
+          <img src=	https://user-images.githubusercontent.com/93086665/144602938-c530bdba-8d86-4bc4-bea9-c093253208c1.png>
     </p>			
 
     
@@ -83,7 +84,7 @@
     ```
 
     <p align="center">
-          	gambar 8
+           <img src= https://user-images.githubusercontent.com/93086665/144603043-b65ae722-6cc2-4f49-948f-a2894b2b85f3.png>
     </p>			
 
     
@@ -91,7 +92,7 @@
   - cek ssh apakah sudah berjalan atau belum
 
     <p align="center">
-          	gambar 9
+          <img src=	https://user-images.githubusercontent.com/93086665/144603227-70556869-dd05-4d69-b3e0-40633122999e.png>
     </p>			
 
 
@@ -113,11 +114,11 @@
    ```
 
    <p align="center">
-         	gambar 10
+         <img src=	https://user-images.githubusercontent.com/93086665/144603396-0da56a75-0543-481c-884f-8c251ab4ce3a.png>
    </p>			
 
    <p align="center">
-         	gambar 11
+         	<img src= https://user-images.githubusercontent.com/93086665/144603558-ae49d84a-d900-4de8-8336-59cf9903f17f.png>
    </p>		
 
    
@@ -125,7 +126,7 @@
    - Setelah membuat baru, gunakan command lxc-start untuk memulai ubuntu_7.4 dan gunakan command lxc-attach untuk membuka ubuntu_7.4. Lalu gunakan install nano untuk mengedit config.
 
      <p align="center">
-           	gambar 12
+           	<img src= https://user-images.githubusercontent.com/93086665/144603708-e4dda3c4-c9bd-4463-af89-402d2dcd5721.png>
      </p>		
 
      
@@ -133,7 +134,7 @@
    - Atur IP ubuntu_php7.4
    
      <p align="center">
-           	gambar 13
+           	<img src= https://user-images.githubusercontent.com/93086665/144603814-bd8d9e8b-42a9-4389-8e7d-f58f293bf8b7.png>
      </p>		
 
      Dengan Menggunakan
@@ -147,7 +148,7 @@
      ```
 
      <p align="center">
-           	gambar 14
+           	<img src= https://user-images.githubusercontent.com/93086665/144603962-78b6f1bb-a9af-4f82-8e3a-77f7ff48e012.png>
      </p>		
 
      
@@ -159,7 +160,7 @@
      ```
 
      <p align="center">
-           	gambar 15
+           	<img src= https://user-images.githubusercontent.com/93086665/144604054-a5086697-0e9a-4702-8b1d-14faee3d6e0b.png>
      </p>		
      
      
@@ -171,7 +172,7 @@
    ```
    
    <p align="center">
-         	gambar 16
+         	<img src= https://user-images.githubusercontent.com/93086665/144604139-31ff4a03-26eb-44bf-8d16-bee917c4b870.png>
    </p>		
    
    
@@ -179,7 +180,7 @@
    - install ssh
    
      <p align="center">
-           	gambar 17
+           	<img src= https://user-images.githubusercontent.com/93086665/144604184-59dbb3bf-498e-4912-8990-179632cc0375.png>
      </p>		
    
      
@@ -187,14 +188,14 @@
    - Atur password baru
    
      <p align="center">
-           	gambar 18
+          <img src= https://user-images.githubusercontent.com/93086665/144604300-c8b83a1e-3b25-41f9-8832-e7542cb454c4.png>
      </p>
      
    
    - cek ssh apakah sudah berjalan atau belum
    
      <p align="center">
-           	gambar 19
+           	<img src= https://user-images.githubusercontent.com/93086665/144604442-1889d49c-b08c-41d0-a4b6-6222f02d1687.png
      </p>		
      
 
@@ -203,14 +204,18 @@
 - Langkah pertama yang harus dilakukan yakni menginstall laravel  menggunakan ansible. Setelah menginstall, masuk ke ansible tersebut dan buatlah folder laravel
 
   <p align="center">
-        	gambar 20
+        	<img src= https://user-images.githubusercontent.com/93086665/144604661-af031c49-b3fc-45d1-9bd8-37fe8235cd58.png>
   </p>		
 
   
 
 - Selanjutnya, buat host untuk lxc yang nanti akan di otomasi
 
-  <p align="center">        gambar 21 </p>   
+  <p align="center">       
+    
+    <img src= https://user-images.githubusercontent.com/93086665/144604720-6f9b6881-2d92-4960-8918-4e0d99a296a9.png>
+                                 
+    </p>   
 
    
 
@@ -223,7 +228,7 @@
   * Buatlah directory serta apapun yang akan digunakan untuk menjalankan folder php dan lakukan instalasi
 
     <p align="center">
-          	gambar 22
+          	<img src= https://user-images.githubusercontent.com/93086665/144604819-23d8fd50-58d1-4190-82dd-d010075730de.png>
     
   ```
   ---
@@ -270,7 +275,7 @@
   - Jika instalasi telah selesai dilakukan, buat folder installcomposer.yml
 
     <p align="center">
-          	gambar 23
+          	gambar belum
     </p>
 
   ```
@@ -340,16 +345,17 @@
   - Lakukan instalasi kembali
 
     <p align="center">
-          	gambar 24
+          	gambar belum
     </p>
 
   - Buatlah file lxc_landing.dev
 
     <p align="center">
-          	gambar 25
+          	<img src= https://user-images.githubusercontent.com/93086665/144605170-69684284-0ba0-49e0-a50f-16f366c7f6cd.png>
     </p>
 
     ```
+    
     server {
             listen 80;
     
@@ -376,7 +382,8 @@
 
   - Buatlah file config.yml
 
-    <p align="center">        gambar 26
+    <p align="center">       
+          <img src= https://user-images.githubusercontent.com/93086665/144605309-85e62f58-c772-4441-a5fe-a30f927ac7d2.png>
     ```
     ---
     - hosts: all
@@ -427,7 +434,7 @@
 
   - Lakukan instalasi
 
-    <p align="center">        gambar 27
+    <p align="center">        gambar belum
 
     
 
@@ -435,8 +442,8 @@
 
   - Cek dengan cara membuka vm.local. Jika sukses, maka tampilannya akan seperti berikut ini :
 
-    <p align="center">        gambar 28
-    
+    <p align="center">        
+    	          <img src= https://user-images.githubusercontent.com/93086665/144605578-ed506a51-3c40-4d20-8f02-c1878f2928ae.png>
     
 
 
@@ -446,7 +453,7 @@
    - Seperti pada nomor sebelumnya, langkah pertama dimulai dengan masuk pada folder ansible
 
      <p align="center">
-           	<img src= "https://github.com/acid99/Sistem-Administrasi-Server/blob/main/assets/laprak2/no%204/2021-12-01.png?raw=true">
+           	<img src= https://user-images.githubusercontent.com/93086665/144605665-e1dc89c8-399d-4d79-a659-7c55424082df.png>
      </p>
 
      
@@ -454,7 +461,7 @@
    - Buat host untuk lxc yang nanti akan di otomasi
 
      <p align="center">
-           	<img src= "https://github.com/acid99/Sistem-Administrasi-Server/blob/main/assets/laprak2/no%204/2021-12-01_1.png?raw=true">
+           	<img src= https://user-images.githubusercontent.com/93086665/144605710-1a948dc2-62ac-4e11-8987-f16e6827ba19.png>
      </p>
 
    ```
@@ -467,7 +474,7 @@
    - Buat direktori untuk tasks,templates dan handlers di folder wordpress. Lalu, masuk ke dalam folder tasks untuk menginstall paket
    
      <p align="center">
-           	<img src= "https://github.com/acid99/Sistem-Administrasi-Server/blob/main/assets/laprak2/no%204/2021-12-01_2.png?raw=true">
+           	<img src= https://user-images.githubusercontent.com/93086665/144605935-de4f54fa-f8e5-47ed-bed1-8c2ca2c13704.png>
      </p>
    
    ```
@@ -570,7 +577,7 @@
    - Kemudian, masuk ke dalam templates wp.conf yang merupakan tempat configuration pada wordpress
    
      <p align="center">
-           	<img src= "https://github.com/acid99/Sistem-Administrasi-Server/blob/main/assets/laprak2/no%204/2021-12-01_2_1.png?raw=true">
+           	<img src= https://user-images.githubusercontent.com/93086665/144606086-325d0abb-ba20-43d5-82e3-63f71f2d9cf8.png>
      </p>
    
       
@@ -683,7 +690,7 @@
    - Masuk ke dalam templates wordpress.conf
    
      <p align="center">
-           	<img src= "https://github.com/acid99/Sistem-Administrasi-Server/blob/main/assets/laprak2/no%204/2021-12-01_3.png?raw=true">
+           	<img src= https://user-images.githubusercontent.com/93086665/144606228-192b4362-1d54-4ba9-a461-c5819837bd00.png>
      </p>
    
      ```
@@ -723,7 +730,7 @@
      - Jalankan ansible kembali untuk menginstall
    
        <p align="center">
-             	<img src= "https://github.com/acid99/Sistem-Administrasi-Server/blob/main/assets/laprak2/no%204/2021-12-01_4.png?raw=true">
+             	<img src= https://user-images.githubusercontent.com/93086665/144606363-5b8201dd-cb07-4985-8cc4-e407234f1ffb.png>
        </p>
    
      
@@ -731,17 +738,7 @@
    - Buka vm.local/blog/ untuk melakukan checking apakah wordpressnya sudah dapat dijalankan atau belum. Jika sudah dapat dijalankan, maka tampilannya akan berubah menjadi berikut :
    
      <p align="center">
-           	<img src= "https://github.com/acid99/Sistem-Administrasi-Server/blob/main/assets/laprak2/no%204/2021-12-01_5.png?raw=true">
+           	<img src= https://user-images.githubusercontent.com/93086665/144606455-a41b4b89-1104-4a48-8ef8-2bda6972e7d8.jpeg>
      </p>
    
-     <p align="center">
-           	<img src= "https://github.com/acid99/Sistem-Administrasi-Server/blob/main/assets/laprak2/no%204/2021-12-01_6.png?raw=true">
-     </p>
-     
-     <p align="center">
-           	<img src= "https://github.com/acid99/Sistem-Administrasi-Server/blob/main/assets/laprak2/no%204/2021-12-01_7.png?raw=true">
-     </p>
-     
-     <p align="center">
-           	<img src= "https://github.com/acid99/Sistem-Administrasi-Server/blob/main/assets/laprak2/no%204/2021-12-01_8.png?raw=true">
-     </p>
+DONE :)
